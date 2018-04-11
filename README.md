@@ -1,7 +1,7 @@
 # my-music-master
 
-> A Vue.js music project
-
+> A Vue.js music project        
+demo：https://bugsc.github.io/githueEchoOnlineSeek/#/index
 # 主要用到的插件
  "amfe-flexible": "^2.2.1",     
  "axios": "^0.17.1",     
